@@ -8,6 +8,16 @@
 
 - **abandon:** can not determine the precedence relations and discards the lecture videos pairs
 
+
+**The number of voting results and precedence relations in the lecture video is as follows**
+
+
+| **Domin**        | **Vote for lecture videos** | **Effective voting for lecture video pairs** | **#Precedence relations** |
+| ---------------- | ----------------------- | ---------------------------------------- | ------------------------- |
+| Food  and Health | 176                     | 174                                      | 13                        |
+| Algorithms       | 444                     | 437                                      | 96                        |
+| Calculus         | 812                     | 781                                      | 378                       |
+| Global  History  | 441                     | 441                                      | 84                        |
   
 
   *Some information about the attributes of csv file  lecture videos are as follows:*
